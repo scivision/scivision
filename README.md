@@ -7,5 +7,6 @@ Despite its name, through much of the Earth's ionosphere, only a small fraction 
 * magnetic field variation
 
 I have well over 100 projects I've created and maintain, and have contributed to over 1,000 software projects, including major packages like the internals of CMake, Python, GNU Octave, LAPACK, MUMPS and many more.
+The engineering courses I have helped create and lead gross over $2 million USD annually.
 
 While my time is limited due to being PI on my own federally funded projects, I am setup for consulting if the fit is right, or I can help direct you to someone who can help.
