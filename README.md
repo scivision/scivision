@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I wear a few different hats while I model the ionosphere of Earth and other planetary bodies.
 The ionosphere might be thought of as an interface between a planetary body and the stellar (solar) wind.
 Despite it's name, through much of the Earth's ionosphere, only a small fraction of the molecules are ionoized, but they make themselves known in many ways that I work to model, sense, and analyze:
